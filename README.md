@@ -27,7 +27,7 @@ Purpose of this Project:
      Note : Create your bot api key :Username in Telegram (BotFather)
       - pyTelegramBotAPI
       
-  # For more Referance See a Below more Images...
+  # For more Referance See a Below Images...
   
       Imagee One
    ![photo_2022-09-07_18-42-22](https://user-images.githubusercontent.com/82278181/188887022-5ab4c1bc-2884-4054-a0d4-2c84348ba99e.jpg)
