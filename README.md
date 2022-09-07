@@ -1,4 +1,4 @@
-# Telegram_Bot_For_Telegram
+# Python_Bot_For_Telegram
 
 This Project_(Bot) Fully Developed by Python For Learners
 
