@@ -40,8 +40,8 @@ Follow my Social Media & Subscribe Our Youtube Channel 🙏
 
         Social Media :
 
-        Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
-        Youtube   : https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A
+Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
+Youtube   : https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A
         
 
 😇 Thankyou For Visiting Our Page😇
